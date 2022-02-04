@@ -1,0 +1,1000 @@
+ 1011  git statu
+ 1012  git status
+ 1013  vtex deploy vtexhelp.help-admin-v4-ui@0.16.0
+ 1014  vtex ls
+ 1015  vtex update
+ 1016  vtex ls
+ 1017  vtex update
+ 1018  ls
+ 1019  sudo rm package.json 
+ 1020  git staatus
+ 1021  git status
+ 1022  git --help
+ 1023  git config 
+ 1024  git config --global
+ 1025  cd Downloads/
+ 1026  ls
+ 1027  sudo rm kazam-1.4.5/
+ 1028  git rmdir kazam-1.4.5/
+ 1029  sudo rm -rf kazam-1.4.5/
+ 1030  sudo rm -rf pygtk-2.24.0/
+ 1031  git status
+ 1032  git config --list
+ 1033  git config 
+ 1034  git config --replace-all
+ 1035  git config --global --unset credential.helper
+ 1036  git config --list
+ 1037  git push
+ 1038  git clone https://github.com/myllenaalves/Algoritmos-e-estruturas-de-dados.git
+ 1039  git status
+ 1040  cd Algoritmos-e-estruturas-de-dados/
+ 1041  git status
+ 1042  git push
+ 1043  git status
+ 1044  npm list
+ 1045  clear
+ 1046  npm --v
+ 1047  node --v
+ 1048  node
+ 1049  clear
+ 1050  node -v
+ 1051  ls
+ 1052  clear
+ 1053  ls
+ 1054  cd Documents/
+ 1055  clear
+ 1056  ls
+ 1057  mkdir test
+ 1058  cd test/
+ 1059  yarn
+ 1060  clear
+ 1061  ls
+ 1062  cd ..
+ 1063  nautilus .
+ 1064  curl
+ 1065  curl -L https://vtex.io/vtexcli/install | sh
+ 1066  n
+ 1067  clear
+ 1068  vtex --version
+ 1069  clear
+ 1070  hostname
+ 1071  sudo dmidecode | less
+ 1072  clear
+ 1073  sudo dmidecode -t system | grep Serial
+ 1074  fdisk
+ 1075  fdisk --help
+ 1076  fdisk -l
+ 1077  clear
+ 1078  sudo fdisk -l
+ 1079  ls
+ 1080  cd Documents/
+ 1081  clear
+ 1082  mkdir typescript-project
+ 1083  cd typescript-project/
+ 1084  clear
+ 1085  ls
+ 1086  npm i typescript --save-dev
+ 1087  ls
+ 1088  npx tsc --init
+ 1089  ls
+ 1090  code .
+ 1091  ls
+ 1092  tsc
+ 1093  npm tsc
+ 1094  npx tsc
+ 1095  clear
+ 1096  npx tsc
+ 1097  clear
+ 1098  npx tsc
+ 1099  cd Documents/typescript-project/
+ 1100  code .
+ 1101  ls -al ~/.ssh
+ 1102  ssh-keygen -t ed25519 -C "jfon@cin.ufpe.br"
+ 1103  ls -al ~/.ssh
+ 1104  eval "$(ssh-agent -s)"
+ 1105  ssh-add ~/.ssh/id_ed25519
+ 1106  cat ~/.ssh/id_ed25519.pub
+ 1107  clear
+ 1108  ls
+ 1109  mkdir repos
+ 1110  cd repos/
+ 1111  git clone git@github.com:JosueFidelis/FullStack-hy.git
+ 1112  clear
+ 1113  cd FullStack-hy/
+ 1114  ls
+ 1115  clear
+ 1116  mkdir part1
+ 1117  cd part1/
+ 1118  clear
+ 1119  cd repos/
+ 1120  git clone git@github.com:vtex/support-graphql.git
+ 1121  git clone git@github.com:vtex/support-ui.git
+ 1122  cd support-graphql/
+ 1123  clear
+ 1124  ls
+ 1125  vtex setup
+ 1126  vtex link
+ 1127  vtex workspace
+ 1128  vtex workspace create jfon
+ 1129  vtex workspace use jfon
+ 1130  vtex workspace use josue
+ 1131  vtex login
+ 1132  vtex login vtex
+ 1133  vtex workspace list
+ 1134  vtex login vtexhelp
+ 1135  vtex workspace list
+ 1136  vtex workspace use josue
+ 1137  vtex workspace create josue
+ 1138  vtex workspace create jfon
+ 1139  vtex workspace
+ 1140  vtex
+ 1141  vtex local
+ 1142  cd support-ui/
+ 1143  ls
+ 1144  vtex setup
+ 1145  vtex link
+ 1146  code .
+ 1147  vtex
+ 1148  clear
+ 1149  vtex
+ 1150  vtex login vtexlab
+ 1151  cd repos/
+ 1152  ls
+ 1153  cd support-graphql/
+ 1154  clear
+ 1155  vtex link
+ 1156  clear
+ 1157  vtex link
+ 1158  clear
+ 1159  vtex link
+ 1160  clear
+ 1161  vtex link
+ 1162  code .
+ 1163  vtex login vtexhelp
+ 1164  vtex workspace
+ 1165  vtex
+ 1166  vtex -v
+ 1167  vtex workspace list
+ 1168  vtex workspace use jfon
+ 1169  clear
+ 1170  cd repos/support-ui/
+ 1171  clear
+ 1172  ls
+ 1173  vtex link
+ 1174  clear
+ 1175  vtex unlink --all
+ 1176  vtex link
+ 1177  clear
+ 1178  vtex unlink --all
+ 1179  vtex link
+ 1180  vtex unlink
+ 1181  vtex unlink --all
+ 1182  vtex link
+ 1183  clear
+ 1184  vtex unlink
+ 1185  vtex link
+ 1186  vtex unlink --all
+ 1187  cd ..
+ 1188  nautilus .
+ 1189  cd repos/FullStack-hy/part1/
+ 1190  ls
+ 1191  clear
+ 1192  mkdir course-info
+ 1193  cd course-info/
+ 1194  clear
+ 1195  npm create-react-app part1
+ 1196  npx create-react-app part1
+ 1197  clear
+ 1198  ls
+ 1199  nautilus .
+ 1200  clear
+ 1201  npx create-react-app part1
+ 1202  yarn create react-app my-app
+ 1203  node
+ 1204  clear
+ 1205  npm list
+ 1206  clear
+ 1207  ls -a
+ 1208  clear
+ 1209  node list
+ 1210  npm list
+ 1211  clear
+ 1212  cd ~
+ 1213  npm list
+ 1214  clear
+ 1215  cd repos/FullStack-hy/part1/course-info/
+ 1216  clear
+ 1217  npm init react-app part1
+ 1218  nvm
+ 1219  clear
+ 1220  sudo apt upgrade node
+ 1221  sudo npm install -g n
+ 1222  sudo n lts
+ 1223  clear
+ 1224  node
+ 1225  celar
+ 1226  clear
+ 1227  yarn create react-app part1
+ 1228  cd part1/
+ 1229  clear
+ 1230  yarn start
+ 1231  clear
+ 1232  node .
+ 1233  clear
+ 1234  code .
+ 1235  yarn start
+ 1236  cd repos/FullStack-hy/part1/
+ 1237  ls
+ 1238  clear
+ 1239  mkdir exercise
+ 1240  cd exercise/
+ 1241  clear
+ 1242  yarn create react-app part1-exercise
+ 1243  cd part1-exercise/
+ 1244  ls
+ 1245  clear
+ 1246  yarn start
+ 1247  clear
+ 1248  code .
+ 1249  cd repos/FullStack-hy/part1/
+ 1250  clear
+ 1251  cd course-info/
+ 1252  ls -a
+ 1253  cd part1/
+ 1254  ls - a
+ 1255  ls -a
+ 1256  rm -rf .git
+ 1257  ls -a
+ 1258  cd ..
+ 1259  cd exercise/
+ 1260  ls
+ 1261  cd part1-exercise/
+ 1262  ls -a
+ 1263  clear
+ 1264  rm -rf .git
+ 1265  ls -a
+ 1266  clear
+ 1267  cd ../../..
+ 1268  git status
+ 1269  git add .
+ 1270  git status
+ 1271  git commit -m "exercise 1.1"]
+ 1272  git log
+ 1273  clear
+ 1274  git status
+ 1275  git diff
+ 1276  clear
+ 1277  git add .
+ 1278  git commit -m "exercise 1.2"
+ 1279  git push
+ 1280  ssh
+ 1281  ssh keys
+ 1282  cd ~/.ssh
+ 1283  clear
+ 1284  ls
+ 1285  ls -a
+ 1286  ssh-add -D id_rsa
+ 1287  ls
+ 1288  eval "$(ssh-agent -s)"
+ 1289  ls -al ~/.ssh
+ 1290  touch ~/.ssh/config
+ 1291  clear
+ 1292  open ~/.ssh/config
+ 1293  gedit ~/.ssh/config
+ 1294  ls -al ~/.ssh
+ 1295  gedit ~/.ssh/config
+ 1296  ssh-add -K ~/.ssh/id_ed25519
+ 1297  cd ~/repos/FullStack-hy/part1/exercise/part1-exercise/
+ 1298  clear
+ 1299  cd ../../..
+ 1300  ls
+ 1301  git status
+ 1302  clear
+ 1303  git push
+ 1304  cpwd
+ 1305  pwd
+ 1306  cd ~/.ssh/
+ 1307  ls -a
+ 1308  gedit config 
+ 1309  cd /home/vtexlab/repos/FullStack-hy
+ 1310  git push
+ 1311  clear
+ 1312  nautilus .
+ 1313  clear
+ 1314  git rebase -i HEAD~2
+ 1315  cd repos/FullStack-hy/
+ 1316  ls
+ 1317  ls -a
+ 1318  git log
+ 1319  clear
+ 1320  git rebase -i HEAD~3
+ 1321  git reset --hard
+ 1322  git rebase -i HEAD~3
+ 1323  git rebase --abort
+ 1324  clear
+ 1325  git rebase -i HEAD~3
+ 1326  git rebase -i HEAD~2
+ 1327  clear
+ 1328  git log
+ 1329  git rebase -i HEAD~2
+ 1330  git log
+ 1331  clear
+ 1332  git status
+ 1333  git add .
+ 1334  git commit -m "test"
+ 1335  git log
+ 1336  clear
+ 1337  cd ~
+ 1338  eval "$(ssh-agent -s)"
+ 1339  ls
+ 1340  cd repos/
+ 1341  cd FullStack-hy/
+ 1342  ls
+ 1343  git status 
+ 1344  git add .
+ 1345  git commit -m "sda"
+ 1346  git log
+ 1347  clear
+ 1348  ssh-keygen -t ed25519 -C "jfon@cin.ufpe.br"
+ 1349  eval "$(ssh-agent -s)"
+ 1350  ssh-add ~/.ssh/id_ed25519
+ 1351  cat ~/.ssh/id_ed25519.pub
+ 1352  yarn start
+ 1353  clear
+ 1354  yarn start
+ 1355  cd repos/FullStack-hy/
+ 1356  clear
+ 1357  git status
+ 1358  git add .
+ 1359  git commit -m "sasdasd"
+ 1360  git log
+ 1361  git config
+ 1362  clear
+ 1363  git config --list
+ 1364  git log
+ 1365  git config --global user.name "Josué Fidelis"
+ 1366  git config --global user.email "jfon@cin.ufpe.br"
+ 1367  git config --list
+ 1368  git add .
+ 1369  git commit -m "sdadsadasd"
+ 1370  git log
+ 1371  clear
+ 1372  cd ..
+ 1373  ls
+ 1374  rm -r FullStack-hy/
+ 1375  y
+ 1376  clear
+ 1377  ls
+ 1378  cd FullStack-hy/
+ 1379  ls
+ 1380  ls -a
+ 1381  clear
+ 1382  cd ..
+ 1383  ls
+ 1384  clear
+ 1385  git clone git@github.com:JosueFidelis/FullStack-hy.git
+ 1386  clear
+ 1387  git rebase -i HEAD~2
+ 1388  cd FullStack-hy/
+ 1389  git rebase -i HEAD~2
+ 1390  git log
+ 1391  git rebase -i HEAD~1
+ 1392  git commit --amend --author="Josué Fidelis <jfon@cin.ufpe.br>" --no-edit
+ 1393  git log
+ 1394  clear
+ 1395  git push
+ 1396  git rebase --continue
+ 1397  git log
+ 1398  clear
+ 1399  git push
+ 1400  git push -f
+ 1401  clear
+ 1402  cd ..
+ 1403  cd ~/repos/
+ 1404  clear
+ 1405  git clone git@github.com:JosueFidelis/FullStack-hy.git
+ 1406  git status
+ 1407  cd FullStack-hy/
+ 1408  clear
+ 1409  git sta
+ 1410  git status
+ 1411  clear
+ 1412  git add .
+ 1413  git status
+ 1414  git commit -m "exercises part1"
+ 1415  clear
+ 1416  git push
+ 1417  cd repos/FullStack-hy/part1/
+ 1418  clear
+ 1419  ls
+ 1420  code .
+ 1421  node --v
+ 1422  node 0v
+ 1423  node -v
+ 1424  clear
+ 1425  vtex whoami
+ 1426  vtex login vtexhelp
+ 1427  vtex use jfon2
+ 1428  vtex whoami
+ 1429  vtex workspace ls
+ 1430  vtex use jfon2
+ 1431  vtex workspace ls
+ 1432  vtex whoami
+ 1433  vtex login jfon2
+ 1434  vtex login jfon
+ 1435  clear
+ 1436  vtex whoami
+ 1437  vtex login
+ 1438  vtex whoami
+ 1439  yarn start
+ 1440  cd exercise/
+ 1441  ls
+ 1442  clear
+ 1443  cd part1-exercise/
+ 1444  yarn start
+ 1445  ls
+ 1446  clear
+ 1447  yarn
+ 1448  clear
+ 1449  yarn start
+ 1450  clear
+ 1451  cd ../..
+ 1452  ls
+ 1453  cd course-info/
+ 1454  ls
+ 1455  cd part1/
+ 1456  clear
+ 1457  yarn start
+ 1458  yarn
+ 1459  yarn start
+ 1460  clear
+ 1461  yarn start
+ 1462  clear
+ 1463  cd exercise/
+ 1464  ls
+ 1465  clear
+ 1466  cd part1-exercise/
+ 1467  ls
+ 1468  clear
+ 1469  git status
+ 1470  git diff
+ 1471  clear
+ 1472  git add .
+ 1473  git commit -m "exercise 1.3"
+ 1474  git log
+ 1475  clear
+ 1476  git status
+ 1477  git add .
+ 1478  git commit -m "exercise 1.4"
+ 1479  git status
+ 1480  clear
+ 1481  git diff
+ 1482  clear
+ 1483  git add .
+ 1484  git commit -m "exercise 1.5"
+ 1485  git log
+ 1486  clear
+ 1487  git log
+ 1488  clear
+ 1489  git add .
+ 1490  git commit -m "couorse-info update"
+ 1491  git log
+ 1492  clear
+ 1493  git add .
+ 1494  git status
+ 1495  cd ..
+ 1496  git add .
+ 1497  git commit -m "course-info update"
+ 1498  clear
+ 1499  git log
+ 1500  clear
+ 1501  git status
+ 1502  git add .
+ 1503  git commit -m "course-info update"
+ 1504  git log
+ 1505  clear
+ 1506  git status
+ 1507  clear
+ 1508  git stash
+ 1509  clear
+ 1510  git status
+ 1511  git push
+ 1512  git stash pop
+ 1513  clear
+ 1514  cd repos/FullStack-hy/
+ 1515  ls
+ 1516  cd part1/
+ 1517  ls
+ 1518  clear
+ 1519  code .
+ 1520  cd exercise/anecdotes/
+ 1521  clear
+ 1522  cd ..
+ 1523  yarn create react-app anecdotes
+ 1524  ls
+ 1525  clear
+ 1526  cd anecdotes/
+ 1527  clear
+ 1528  ls =a
+ 1529  ls -a
+ 1530  rm -rf .git
+ 1531  ls
+ 1532  ls -a
+ 1533  clear
+ 1534  git config --list --show-origin
+ 1535  cd ~
+ 1536  git config --list --show-origin
+ 1537  git status
+ 1538  git add .
+ 1539  git commit -m "course-info update"
+ 1540  git status
+ 1541  clear
+ 1542  cd course-info/
+ 1543  ls
+ 1544  cd part1/
+ 1545  ls -a
+ 1546  rm -rf node_modules/ && npm i
+ 1547  clear
+ 1548  çs
+ 1549  ls
+ 1550  clear
+ 1551  yarn 
+ 1552  ls -a
+ 1553  clear
+ 1554  cd ../../exercise/part1-exercise/
+ 1555  ls
+ 1556  clear
+ 1557  git status
+ 1558  git diff
+ 1559  clear
+ 1560  cd ..
+ 1561  git status
+ 1562  git add .
+ 1563  git commit -m "exercise 1.6"
+ 1564  git status
+ 1565  git add .
+ 1566  git commit -m "exercise 1.7"
+ 1567  git add .
+ 1568  git commit -m "exercise 1.9, exercise 1.8 skipped because the requirements were already satisfied"
+ 1569  git status
+ 1570  git diff
+ 1571  git add .
+ 1572  git commit -m "exercise 1.10"
+ 1573  git status
+ 1574  git add .
+ 1575  git commit -m "exercise 1.11"
+ 1576  git status
+ 1577  clear
+ 1578  git push
+ 1579  clear
+ 1580  git reset --hard
+ 1581  clear
+ 1582  git status
+ 1583  git add .
+ 1584  git status
+ 1585  git commit -m "change project name"
+ 1586  clear
+ 1587  git status
+ 1588  git add .
+ 1589  git commit -m "exercise 1.12"
+ 1590  git status
+ 1591  clear
+ 1592  git status
+ 1593  git diff
+ 1594  clear
+ 1595  git log
+ 1596  clear
+ 1597  git add .
+ 1598  git commit -m "exercise 1.13"
+ 1599  git status
+ 1600  clear
+ 1601  git status
+ 1602  git diff
+ 1603  clear
+ 1604  git add .
+ 1605  git commit -m "exercise 1.14"
+ 1606  git push
+ 1607  git status
+ 1608  ls
+ 1609  cd ..
+ 1610  ls
+ 1611  ls -a
+ 1612  clear
+ 1613  mkdir part2
+ 1614  ls
+ 1615  cd part
+ 1616  cd part2
+ 1617  clear
+ 1618  cd ..
+ 1619  ls
+ 1620  cd part1
+ 1621  ls
+ 1622  cd course-info/
+ 1623  ls
+ 1624  cd ..
+ 1625  cd part2/
+ 1626  clear
+ 1627  ls
+ 1628  yarn create react-app course-info
+ 1629  clear
+ 1630  git status
+ 1631  clear ..
+ 1632  cd ..
+ 1633  clear
+ 1634  git status
+ 1635  yarn start
+ 1636  cd course-info/
+ 1637  ls
+ 1638  cd part1/
+ 1639  clear
+ 1640  yarn start
+ 1641  cd ../../exercise/part1-exercise/
+ 1642  clear
+ 1643  yarn start
+ 1644  clear 
+ 1645  cd ../anecdotes/
+ 1646  ls
+ 1647  clear
+ 1648  yarn start
+ 1649  cd repos/FullStack-hy/
+ 1650  cd part2
+ 1651  clear
+ 1652  code .
+ 1653  ls
+ 1654  cd course-info/
+ 1655  ls
+ 1656  clear
+ 1657  ls -a
+ 1658  clear
+ 1659  yarn start
+ 1660  clear
+ 1661  cd repos/FullStack-hy/part2/
+ 1662  ls
+ 1663  code .
+ 1664  cd repos/FullStack-hy/
+ 1665  clear
+ 1666  git log
+ 1667  clear
+ 1668  git checkout f6c40d8dd772df75d61ae9cac2ea0a513191b643
+ 1669  ls
+ 1670  cd part1
+ 1671  ls
+ 1672  cd exercise/
+ 1673  code .
+ 1674  cd ..
+ 1675  git checkout main
+ 1676  git status
+ 1677  git add .
+ 1678  git status
+ 1679  clear
+ 1680  git status
+ 1681  git add .
+ 1682  ls
+ 1683  clear
+ 1684  git commit -m "exercise 2.1"
+ 1685  git status
+ 1686  clear
+ 1687  git status
+ 1688  git add .
+ 1689  git commit -m "corrects exercise 2.1"
+ 1690  clear
+ 1691  git status
+ 1692  git add .
+ 1693  git commit -m "exercise 2.2"
+ 1694  clear
+ 1695  git status
+ 1696  git add .
+ 1697  git commit -m "exercise 2.4"
+ 1698  clear
+ 1699  git add .
+ 1700  git commit -m "exercise 2.5"
+ 1701  clear
+ 1702  git status
+ 1703  git add .
+ 1704  git commit -m "update course-subject"
+ 1705  clear
+ 1706  ls
+ 1707  cd exercises/
+ 1708  yarn create react-app phonebook
+ 1709  cd ..
+ 1710  git sattus
+ 1711  git status
+ 1712  git add .
+ 1713  git commit -m "exercise 2.6"
+ 1714  git status
+ 1715  git add .
+ 1716  git commit -m "exercise 2.7"
+ 1717  clear
+ 1718  git status
+ 1719  clear
+ 1720  git status
+ 1721  git add .
+ 1722  git commit -m "exercise 2.9"
+ 1723  git log
+ 1724  cd course-info/
+ 1725  clear
+ 1726  yarn start
+ 1727  clear
+ 1728  git status
+ 1729  cd ..
+ 1730  git status
+ 1731  cd ..
+ 1732  ls
+ 1733  git status
+ 1734  git diff
+ 1735  git add .
+ 1736  git commit -m "part2 course-info update"
+ 1737  clear
+ 1738  git status
+ 1739  git add .
+ 1740  git commit -m "rename folders"
+ 1741  clear
+ 1742  cd part2/exercises/course\ information/
+ 1743  clear
+ 1744  yarn start
+ 1745  yarn
+ 1746  yarn start
+ 1747  clear
+ 1748  cd ../../course-subject/
+ 1749  ls
+ 1750  clear
+ 1751  yarn start
+ 1752  clear
+ 1753  cd ../exercises/phonebook/
+ 1754  clear
+ 1755  ls
+ 1756  ls -a
+ 1757  clear
+ 1758  yarn start
+ 1759  clear
+ 1760  git status
+ 1761  clear
+ 1762  yarn start
+ 1763  cd course-subject/
+ 1764  npx json-server --port 3001 --watch db.json
+ 1765  clear
+ 1766  yarn run server
+ 1767  cd repos/FullStack-hy/
+ 1768  ls
+ 1769  cd part
+ 1770  cd part2
+ 1771  clear
+ 1772  ls
+ 1773  code .
+ 1774  cd ~
+ 1775  sudo npm install -g json-server
+ 1776  npm uninstall -g json-server
+ 1777  sudo npm uninstall -g json-server
+ 1778  git status
+ 1779  git add .
+ 1780  git commit -m "exercise 2.9"
+ 1781  git add .
+ 1782  git commit -m "exercise 2.10"
+ 1783  git status
+ 1784  clear
+ 1785  ls
+ 1786  cd course-subject/
+ 1787  ls
+ 1788  clear
+ 1789  yarn run server
+ 1790  yarn run
+ 1791  clear
+ 1792  yarn run
+ 1793  clear
+ 1794  yarn run server
+ 1795  cd exercises/
+ 1796  cd phonebook/
+ 1797  clear
+ 1798  yarn start
+ 1799  clear
+ 1800  cd ../../course-subject/
+ 1801  clear
+ 1802  yarn start
+ 1803  clear
+ 1804  yarn add axios
+ 1805  yarn add --dev json-server
+ 1806  clear
+ 1807  yarn start
+ 1808  git status
+ 1809  clear
+ 1810  git log
+ 1811  clear
+ 1812  cd course-subject/
+ 1813  yarn start
+ 1814  cd ../exercises/phonebook/
+ 1815  clear
+ 1816  yarn start
+ 1817  cd course-subject/
+ 1818  yarn run server
+ 1819  cd ../exercises/phonebook/
+ 1820  clear
+ 1821  yarn run server
+ 1822  yarn add -d json-server
+ 1823  ls
+ 1824  clear
+ 1825  yarn add -d json-server
+ 1826  yarn add --dev json-server
+ 1827  clear
+ 1828  yarn run server
+ 1829  yarn add axios
+ 1830  yarn run server
+ 1831  cd repos/FullStack-hy/part2
+ 1832  clear
+ 1833  ls
+ 1834  code .
+ 1835  cd exercises/data_for_countries/
+ 1836  clear
+ 1837  yarn add axios
+ 1838  git status
+ 1839  git add .
+ 1840  git commit -m "exercise 2.11"
+ 1841  clear
+ 1842  ls
+ 1843  cd exercises/
+ 1844  clear
+ 1845  git log
+ 1846  clear
+ 1847  git status
+ 1848  clear
+ 1849  yarn create react-app data_for_countries
+ 1850  cd ..
+ 1851  clear
+ 1852  git status
+ 1853  git add ,
+ 1854  git add .
+ 1855  git commit -m "exercise 2.12"
+ 1856  git log
+ 1857  clear
+ 1858  git push
+ 1859  git status
+ 1860  clear
+ 1861  git add .
+ 1862  git commit -m "exercise 2.13"
+ 1863  cd exercises/data_for_countries/
+ 1864  yarn start
+ 1865  clear
+ 1866  REACT_APP_API_KEY='4da8f8f272df95a767297b1cbbb75ebd' yarn start
+ 1867  cd repos/FullStack-hy/part2
+ 1868  code .
+ 1869  git status
+ 1870  git add .
+ 1871  git commit -m "exercise 2.14"
+ 1872  git push
+ 1873  clear
+ 1874  git status
+ 1875  clear
+ 1876  cd course-subject/
+ 1877  yarn run server
+ 1878  cd exercises/data_for_countries/
+ 1879  yarn start
+ 1880  REACT_APP_API_KEY='4da8f8f272df95a767297b1cbbb75ebd' yarn start
+ 1881  cd ../../course-subject/
+ 1882  clear
+ 1883  yarn start
+ 1884  cd repos/FullStack-hy/part2
+ 1885  clear
+ 1886  code .
+ 1887  git status
+ 1888  clear
+ 1889  git log
+ 1890  clear
+ 1891  git add .
+ 1892  git commit -m "update course-subject"
+ 1893  git status
+ 1894  git add .
+ 1895  git commit -m "update course-subject"
+ 1896  git log
+ 1897  clear
+ 1898  git status
+ 1899  clear
+ 1900  cd course-subject/
+ 1901  yarn run server
+ 1902  cd ../exercises/phonebook/
+ 1903  clear
+ 1904  yarn run server
+ 1905  cd course-subject/
+ 1906  yarn start
+ 1907  cd ../exercises/phonebook/
+ 1908  clear
+ 1909  yarn start
+ 1910  git status
+ 1911  git add .
+ 1912  git status
+ 1913  clear
+ 1914  git commit -m "exercises 2.15 and 2.16"
+ 1915  git status
+ 1916  clear
+ 1917  git add .
+ 1918  git status
+ 1919  clear
+ 1920  git commit -m "exercise 2.17"
+ 1921  git push
+ 1922  cd exercises/phonebook/
+ 1923  clear
+ 1924  yarn start
+ 1925  cd exercises/phonebook/
+ 1926  clear
+ 1927  yarn run start
+ 1928  clear
+ 1929  yarn run server
+ 1930  ls
+ 1931  clear
+ 1932  cd repos/FullStack-hy/part2/
+ 1933  clear
+ 1934  code .
+ 1935  cd ..
+ 1936  ls
+ 1937  clear
+ 1938  yarn init docusaurus@latest my-website classic
+ 1939  clear
+ 1940  ls
+ 1941  ls -a
+ 1942  nautilus .
+ 1943  clear
+ 1944  npx create-docusaurus@latest my-website classic --skip-install
+ 1945  clear
+ 1946  cd docussaurus/
+ 1947  clear
+ 1948  npx create-docusaurus@latest my-website classic --skip-install
+ 1949  clear
+ 1950  yarn create docusaurus@latest my-website classic --skip-install
+ 1951  clear
+ 1952  npx create-docusaurus@latest my-website classic --skip-install
+ 1953  cd my-website/
+ 1954  clear
+ 1955  ls -a
+ 1956  yarn
+ 1957  code .
+ 1958  yarn run start
+ 1959  cd repos/docussaurus/
+ 1960  ls
+ 1961  clear
+ 1962  cd my-website/
+ 1963  clear
+ 1964  code .
+ 1965  yarn start
+ 1966  clear
+ 1967  yarn start
+ 1968  sudo apt update
+ 1969  sudo apt upgrade
+ 1970  sudo apt update
+ 1971  sudo apt install telegram-desktop
+ 1972  sudo apt purge telegram-desktop
+ 1973  clear
+ 1974  cd repos/
+ 1975  ls
+ 1976  cd docussaurus/
+ 1977  clear
+ 1978  code .
+ 1979  cd my-website/
+ 1980  clea
+ 1981  rclear
+ 1982  clear
+ 1983  code .
+ 1984  git status
+ 1985  ls -a
+ 1986  cd ..
+ 1987  git init
+ 1988  ls -a
+ 1989  git status
+ 1990  git add .
+ 1991  git commit -m "classic mode"
+ 1992  git status
+ 1993  git log
+ 1994  clear
+ 1995  cd ~
+ 1996  sudo apt install ffmpeg
+ 1997  sudo add-apt-repository ppa:obsproject/obs-studio
+ 1998  sudo apt update
+ 1999  sudo apt update && sudo apt install obs-studio
+ 2000  clear
+ 2001  ls
+ 2002  cd repos/
+ 2003  ls
+ 2004  clear
+ 2005  cd docussaurus/
+ 2006  clear
+ 2007  ls
+ 2008  clear
+ 2009  history
+ 2010  history > history.txt
