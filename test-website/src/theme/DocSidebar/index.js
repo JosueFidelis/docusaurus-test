@@ -19,6 +19,7 @@ import IconArrow from '@theme/IconArrow';
 import {translate} from '@docusaurus/Translate';
 import DocSidebarItems from '@theme/DocSidebarItems';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 function useShowAnnouncementBar() {
   const {isActive} = useAnnouncementBar();
@@ -122,12 +123,15 @@ export default function DocSidebar(props) {
     windowSize === 'desktop' || windowSize === 'ssr'; // Mobile sidebar not visible on hydration: can avoid SSR rendering
 
   const shouldRenderSidebarMobile = windowSize === 'mobile';
+
+  console.log(props);
   return (
     <>
     <div className={styles.sidebarTest}>
       <li>
         <ul>a</ul>
-        <ul><a href={"/docs/next/tutorial-basics/intro"}>a</a></ul>
+        <ul><Link to={"/docs/tutorial-basics/intro"}>a</Link></ul>
+        <ul><Link to={"/docs/tutorial-extras/intro"}>b</Link></ul>
       </li>
       {shouldRenderSidebarDesktop && <DocSidebarDesktopMemo {...props} />}
       {shouldRenderSidebarMobile && <DocSidebarMobileMemo {...props} />}
